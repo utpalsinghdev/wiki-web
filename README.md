@@ -1,8 +1,8 @@
 # Wiki-Web
 
-A browser-based home for an Obsidian-style Markdown vault. Keep your notes as files on your own machine, browse and edit them in the web UI, search across them, and explore `[[wikilinks]]` in the graph.
+I do a lot of my work on a home server and wanted to use my Obsidian vault there. Mounting it over Samba didn't work well for me, so I built Wiki-Web: a self-hosted, Obsidian-style web app that reads and edits Markdown files directly from the server.
 
-I've been using this with my own vault for the past couple of months. It started as something I needed for myself, and I thought I'd share it with you guys.
+I've been using it with my own vault for the past couple of months and thought I'd share it with you guys.
 
 ![Wiki-Web graph view](docs/images/graph.png)
 
